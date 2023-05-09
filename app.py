@@ -21,7 +21,7 @@ schema = {
 
 }
 
-openai.api_key = "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"
+openai.api_key = "API key"
 
 
 def generate_quote(num_quotes, category, language, token, author):
